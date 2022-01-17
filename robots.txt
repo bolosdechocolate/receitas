@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /usuario/
+Disallow: *recipe_id=*
+Disallow: /busca
+Disallow: /cometarios.js
+Disallow: /receitas-populares
+Disallow: /meu-livro
+Disallow: /login
