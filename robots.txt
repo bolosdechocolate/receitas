@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /usuario/
-Disallow: *recipe_id=*
 Disallow: /busca
 Disallow: /cometarios.js
 Disallow: /receitas-populares
