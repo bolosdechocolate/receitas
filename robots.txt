@@ -1,4 +1,4 @@
-User-Agent: *
+User-agent: *
 Allow: /
 Disallow: /usuario/
 Disallow: *recipe_id=*
